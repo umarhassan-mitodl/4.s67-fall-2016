@@ -1,0 +1,44 @@
+leftnav:
+- identifier: e79ddf53-9472-4b5c-50a2-b90f9e746b03
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 28aab836-07e4-0021-a34c-6b996eaa6b30
+  name: Field Trip Itinerary
+  pageRef: /pages/field-trip-itinerary
+  weight: 20
+- identifier: 9e928640-e540-1eee-21bb-d5f551a894b2
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 40
+- identifier: ef5df0b9-b80f-a147-78fd-4db84bf871e1
+  name: Curricular Objectives
+  pageRef: /pages/instructor-insights/curricular-objectives
+  parent: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
+  weight: 50
+- identifier: 9090fc69-c928-1870-cc73-b26dea0b96d2
+  name: Teaching a Similar Course in Different Settings
+  pageRef: /pages/instructor-insights/teaching-a-similar-course-in-different-settings
+  parent: e27b1e3d-51bf-23d2-8bf0-1bbce709bf36
+  weight: 60
+- identifier: 3c87a5f4-d5c7-efc8-70f0-9230ac312605
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 70
+- identifier: 2f8808fd-883e-d6a9-21d4-1a3576060ba5
+  name: Field Trip Readings
+  pageRef: /pages/readings/field-trip-readings
+  parent: 3c87a5f4-d5c7-efc8-70f0-9230ac312605
+  weight: 80
+- identifier: 85296620-ef15-ea8f-1917-f34de1a7423f
+  name: Student Projects
+  pageRef: /pages/final-project
+  weight: 90
+- identifier: 1dadf207-e220-2fe5-bd05-5c83b01c65da
+  name: Bibliography
+  pageRef: /pages/bibliography
+  weight: 100
