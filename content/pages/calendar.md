@@ -59,7 +59,7 @@ Meet at Museum of Fine Arts, Art of the Americas Wing
 
 {{< tdclose >}}{{< tdopen >}}
 
-Guest visit: {{% resource_link "a81cdd93-aaa0-4fad-a99e-6b773913b426" "Mark Jarzombek" %}}
+Guest visit: [Mark Jarzombek](http://web.mit.edu/mmj4/www/)
 
 Final project proposals due at beginning of class meeting
 
@@ -70,7 +70,7 @@ Urban Counterpoints? Part 1
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-Optional: Session with Harvard "Technical Lands" class. Screening of Ilisa Barbash and Lucien Castaing-Taylor's {{% resource_link "311c17b5-aae7-412b-ba62-c92ebb860f90" "*Sweetgrass*" %}} with discussion of W. Cronon books to follow: *Nature's Metropolis* and *The Trouble with Wilderness*
+Optional: Session with Harvard "Technical Lands" class. Screening of Ilisa Barbash and Lucien Castaing-Taylor's [*Sweetgrass*](https://www.amdoc.org/watch/sweetgrass/?gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw8_Gdhw6T6wGW12NXvbjlnaI68kS5SypaVSQ855adDY6AKCDXX_JiAaAt2OEALw_wcB) with discussion of W. Cronon books to follow: *Nature's Metropolis* and *The Trouble with Wilderness*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -82,7 +82,7 @@ Landscape Perception
 {{< tdclose >}}{{< tdopen >}}
 Urban Counterpoints? Part 2
 {{< tdclose >}}{{< tdopen >}}
-Guest visit: {{% resource_link "3790eaec-4508-4bd1-8d8b-bd1e027ade1f" "Anne Whiston Spirn" %}}
+Guest visit: [Anne Whiston Spirn](http://www.annewhistonspirn.com/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -104,7 +104,7 @@ Final Research Paper presentations
 Feedback from peers in class; feedback from Caroline Jones via email
 
 {{< tdclose >}}{{< tdopen >}}
- Guest visit: {{% resource_link "5f1abdf3-2334-4fe9-9c36-d9d557128026" "Nick Brown" %}}
+ Guest visit: [Nick Brown](https://camd.northeastern.edu/faculty/nicholas-brown/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -115,7 +115,7 @@ Feedback from peers and instructors in class
 
 {{< tdclose >}}{{< tdopen >}}
 
-Guest visit: {{% resource_link "625a9bb5-b56d-4a40-bd02-d1973d6a3daf" "Sarah Kanouse" %}} and {{% resource_link "c4ec934f-ab75-40ce-8c31-115f9c659a36" "Ruth Erickson" %}}
+Guest visit: [Sarah Kanouse](https://camd.northeastern.edu/artdesign/people/sarah-kanouse/) and [Ruth Erickson](https://upenn.academia.edu/RuthErickson)
 
 Final papers and write-ups of final projects due six days after the last session
 

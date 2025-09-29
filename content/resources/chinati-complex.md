@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/c7f5a5e6069ea506480a33621528754c_Chinati-complex.jpg
 file_size: 41407
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Donald Judd details at Marfa. The visit included a tour of the Chinati
     complex (this window/door is in the old wool factory).

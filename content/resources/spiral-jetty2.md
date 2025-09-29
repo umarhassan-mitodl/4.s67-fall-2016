@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/9f5766a0ad57f51de5d1164356a7704e_spiral-jetty2.jpg
 file_size: 47651
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Spiral Jetty (Robert Smithson, 1970)
   credit: ''

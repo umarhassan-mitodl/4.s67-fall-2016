@@ -28,17 +28,17 @@ READINGS
 On airport wifi (i.e. before departure)
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "17841bc3-488c-473f-add5-c46e87c46332" "Land Arts of the American West" %}}
+[Land Arts of the American West](https://utpress.utexas.edu/9780292716728/)
 
-{{% resource_link "9277437c-16f7-4b70-ab0b-2ec277119db0" "Downwinders of Utah Archive" %}}
+[Downwinders of Utah Archive](http://lib.utah.edu/services/geospatial/downwinders/)
 
-{{% resource_link "0646c5ac-73db-4f3d-8fd0-6533b946f24c" "Great Salt Lake Exploration Platform (GSLEP)" %}}
+[Great Salt Lake Exploration Platform (GSLEP)](http://gslep.org/)
 
-{{% resource_link "c9e4e76e-e781-4509-ae47-2eba515f2d82" "Atlas Obscura" %}}
+[Atlas Obscura](http://www.atlasobscura.com/places)
 
-{{% resource_link "88e865bd-9915-446c-9355-6dda81154834" "The Center for Land Use Interpretation (CLUI) Land Use Database" %}}
+[The Center for Land Use Interpretation (CLUI) Land Use Database](http://clui.org/ludb)
 
-{{% resource_link "8e964d11-470a-476c-9e20-265cdaeb4969" "Very Large Array" %}}
+[Very Large Array](https://public.nrao.edu/telescopes/vla/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
@@ -46,19 +46,19 @@ On airport wifi (i.e. before departure)
 Spiral Jetty, Sun Tunnels
 {{< tdclose >}}{{< tdopen >}}
 
-Smithson, Robert. “The Spiral Jetty.” In *Robert Smithson: The Collected Writings*. Revised edition. Edited by Jack Flam. University of California Press, 1996, pp. 143–153. ISBN: 9780520203853. \[Preview with {{% resource_link "7d85d1a7-58b3-4fb7-b6cd-90cb1889ceb2" "Google Books\]" %}}
+Smithson, Robert. “The Spiral Jetty.” In *Robert Smithson: The Collected Writings*. Revised edition. Edited by Jack Flam. University of California Press, 1996, pp. 143–153. ISBN: 9780520203853. \[Preview with [Google Books\]](https://books.google.com/books?id=SHfHZhN9vzcC&lpg=PP1&pg=PA143#v=onepage&q&f=false)
 
 Alloway, Lawrence. “Site Inspection.” *Artforum*, October 1976, 49–55.
 
 Coolidge, Matthew. “Introduction.” In *Overlook: Exploring the Internal Fringes of America with the Center for Land Use Interpretation*. Edited by Matthew Coolidge and Sarah Simons. Metropolis Books, 2006, p. 16. ISBN: 9781933045337.
 
-{{% resource_link "308b525c-d0ee-4dc0-b016-5e7a103d46e9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. “A Tour of the Monuments of the Great American Void.” In *Perspecta: Grand Tour No. 41*. MIT Press Journals, 2008, pp. 94-–101. ISBN: 9780262512251.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/perspecta-41-grand-tour) ———. “A Tour of the Monuments of the Great American Void.” In *Perspecta: Grand Tour No. 41*. MIT Press Journals, 2008, pp. 94-–101. ISBN: 9780262512251.
 
-Kennedy, Randy. “{{% resource_link "ecb6343c-ccd0-41c3-a9a3-c46dae665b61" "How to Conserve Art That Lives in a Lake?" %}}” *New York Times*, November, 17, 2009: C1.
+Kennedy, Randy. “[How to Conserve Art That Lives in a Lake?](http://www.nytimes.com/2009/11/18/arts/design/18spiral.html)” *New York Times*, November, 17, 2009: C1.
 
-Rubio, Fernando Domínguez. {{% resource_link "d215e849-cf40-454b-8456-b0e8f553c92f" "“The Material Production of the Spiral Jetty: A Study of Culture in the Making.” (PDF)" %}} In *Curatorial Sociology* 6:143 (2012): 143–161.
+Rubio, Fernando Domínguez. [“The Material Production of the Spiral Jetty: A Study of Culture in the Making.” (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.919.1905&rep=rep1&type=pdf) In *Curatorial Sociology* 6:143 (2012): 143–161.
 
-Landi, Ann. "{{% resource_link "51fe0429-8a8a-4a01-a1d6-a55c135277b1" "Discovering Tunnels in the Sand" %}}." *The Wall Street Journal*, June 5, 2012.
+Landi, Ann. "[Discovering Tunnels in the Sand](https://www.wsj.com/articles/SB10001424052702303552104577440373432482052)." *The Wall Street Journal*, June 5, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -72,9 +72,9 @@ Heizer, Michael. “You Might Say I’m in the Construction Business.” *ArtNew
 
 Fox, William L. “Michael Heizer: The Perforated Object.” In *Mapping the Empty: Eight Artists and Nevada*. University of Nevada Press, 1999, pp. 103–122. ISBN: 9780874173147.
 
-———. Chapter 2. In *The Void, The Grid, and the Sign: Traversing the Great Basin*. University of Nevada Press, 2000, pp. 23–52. ISBN: 9780874176186. \[Preview with {{% resource_link "03eed70b-a4c2-4b17-8553-fbb5c855a5d9" "Google Books" %}}\]
+———. Chapter 2. In *The Void, The Grid, and the Sign: Traversing the Great Basin*. University of Nevada Press, 2000, pp. 23–52. ISBN: 9780874176186. \[Preview with [Google Books](https://books.google.com/books?id=ZiyVDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false)\]
 
-Lippard, Lucy. *Undermining: A Wild Ride Through Land Use, Politics, and Art in the Changing West*. The New Press, 2014, pp. 26–30; 81–120. ISBN: 9781595586193. \[Preview with {{% resource_link "ff04be7f-3bb1-44d5-b28a-f0e0e32c2f80" "Google Books" %}}\]
+Lippard, Lucy. *Undermining: A Wild Ride Through Land Use, Politics, and Art in the Changing West*. The New Press, 2014, pp. 26–30; 81–120. ISBN: 9781595586193. \[Preview with [Google Books](https://books.google.com/books?id=6XURBAAAQBAJ&lpg=PP1&dq=Undermining%3A%20A%20Wild%20Ride%20Through%20Land%20Use%2C%20Politics%2C%20and%20Art%20in%20the%20Changing%20West&pg=PA26#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -102,27 +102,27 @@ Hofmann, Irene, Candice Hopkins, et al. "The Ties That Bind Us." In *Much Wider 
 Drive to El Paso (Car 1)/Drive to White Sands (Car 2)
 {{< tdclose >}}{{< tdopen >}}
 
-Thompson, A.R., B.G. Clark, et al. “{{% resource_link "47e86bb3-fa27-4087-8089-27bb233cdf39" "The Very Large Array" %}}.” In *The Astrophysical Journal Supplement Series*, 44, (October 1980): 151–167.
+Thompson, A.R., B.G. Clark, et al. “[The Very Large Array](http://adsabs.harvard.edu/full/1980ApJS…44..151T).” In *The Astrophysical Journal Supplement Series*, 44, (October 1980): 151–167.
 
-Masco, Joe. *Nuclear Borderlands: The Manhattan Project in Post-­Cold War New Mexico*. Princeton University Press, 2006, pp. 1–18; 311–27. \[Preview with {{% resource_link "3db86c2b-76d4-43a2-a3d9-1f02e118d271" "Google Books" %}}\]
+Masco, Joe. *Nuclear Borderlands: The Manhattan Project in Post-­Cold War New Mexico*. Princeton University Press, 2006, pp. 1–18; 311–27. \[Preview with [Google Books](https://books.google.com/books?id=qWsiAQAAQBAJ&lpg=PP1&pg=PA1#v=onepage&q&f=false)\]
 
-Kett, Robert J. "{{% resource_link "8df30f0f-9606-42c1-bbff-b46107a9c9c3" "Monumentality as Method: Archaeology and Land Art in the Cold War" %}}.” *Representations*, Vol. 130 (Spring, 2015): 119–151.
+Kett, Robert J. "[Monumentality as Method: Archaeology and Land Art in the Cold War](https://static1.squarespace.com/static/51b0a639e4b08fb0dc8533e2/t/555b7203e4b06aeea501b55c/1432056323797/REP130_05_Kett.pdf).” *Representations*, Vol. 130 (Spring, 2015): 119–151.
 
 *Optional Car #1:*
 
-Kripa, Ersela and Stephen Mueller. {{% resource_link "0e5147a7-7523-42ec-bdb7-2b19e1c24360" "“Infrastructure of Dust: Managing Particulate in the Borderland.” (PDF)" %}}
+Kripa, Ersela and Stephen Mueller. [“Infrastructure of Dust: Managing Particulate in the Borderland.” (PDF)](https://www.acsa-arch.org/proceedings/International%20Proceedings/ACSA.Intl.2016/ACSA.Intl.2016.32.pdf)
 
-———. {{% resource_link "4844d150-8db2-458c-bcec-353e20920fc0" "\"Domestic Insecurities: Informal Housing and the Future of Low-Intensity Conflict.” (PDF)" %}} In *MONU*, Issue on Domestic Urbanism, 2016.
+———. ["Domestic Insecurities: Informal Housing and the Future of Low-Intensity Conflict.” (PDF)](https://agencyarchitecture.com/publication/monu-domestic-urbanism/) In *MONU*, Issue on Domestic Urbanism, 2016.
 
 *Day after lightning Field (car specific):*
 
-Beardsley, John. “{{% resource_link "52efcde4-b69a-416a-9e77-07a2dace6b40" "Art and Authoritarianism: Walter De Maria’s Lightning Field" %}}.” October 16 (Spring 1981): 35–38.
+Beardsley, John. “[Art and Authoritarianism: Walter De Maria’s Lightning Field](http://www.jstor.org/stable/778373).” October 16 (Spring 1981): 35–38.
 
-Nisbet, James. “{{% resource_link "da656181-67fa-4e5a-bb3c-3ab81bc06012" "A Brief Moment in the History of Photo‐Energy: Walter De Maria’s *Lightning Field*" %}}.” *Grey Room* 50 (Winter, 2013): 66–89.
+Nisbet, James. “[A Brief Moment in the History of Photo‐Energy: Walter De Maria’s *Lightning Field*](http://www.mitpressjournals.org/doi/abs/10.1162/GREY_a_00096#.WQOaX4nyuRs).” *Grey Room* 50 (Winter, 2013): 66–89.
 
 *Optional Car #2:*
 
-Building Technology Inc., Historic American Building Survey/Historic American Engineering Record, and National Park Service. {{% resource_link "f2e07dc0-1638-4eb0-b25c-7319db11462f" "\"Historic Properties Report: White Sands Missile Range, New Mexico and Subinstallation, Utah Launch Complex, Green River, Utah.” (PDF - 7.9MB)" %}} 1984.
+Building Technology Inc., Historic American Building Survey/Historic American Engineering Record, and National Park Service. ["Historic Properties Report: White Sands Missile Range, New Mexico and Subinstallation, Utah Launch Complex, Green River, Utah.” (PDF - 7.9MB)](http://www.dtic.mil/dtic/tr/fulltext/u2/a175824.pdf) 1984.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -134,17 +134,17 @@ Judd, Donald. "Specific Objects." In *Donald Judd: Complete Writings 1959–1975
 
 Tillim, Sidney. “Earthworks and the New Picturesque.” *Artforum* 7: 4 (December 1968): 43–45.
 
-Smithson, Robert. "Frederick Law Olmsted and the Dialectical Landscape.” In *Robert Smithson: The Collected Writings*. Edited by Jack Flam. University of California Press, 1996, pp. 157–171. ISBN: 9780520203853. \[Preview with {{% resource_link "3db86c2b-76d4-43a2-a3d9-1f02e118d271" "Google Books" %}}\]
+Smithson, Robert. "Frederick Law Olmsted and the Dialectical Landscape.” In *Robert Smithson: The Collected Writings*. Edited by Jack Flam. University of California Press, 1996, pp. 157–171. ISBN: 9780520203853. \[Preview with [Google Books](https://books.google.com/books?id=qWsiAQAAQBAJ&lpg=PP1&pg=PA1#v=onepage&q&f=false)\]
 
 Larson, Kay. “New Landscapes in Art.” *New York Times*. May 13, 1979.
 
-Wilsey, Sean and Daphne Beal. "{{% resource_link "8e656a89-db25-4e12-9285-107c3d54265c" "Lone Star Bohemia" %}}." *Vanity Fair*. July, 2012.
+Wilsey, Sean and Daphne Beal. "[Lone Star Bohemia](http://www.vanityfair.com/culture/2012/07/inside-marfa-artists-donald-judd)." *Vanity Fair*. July, 2012.
 
 *Optional:*
 
-Judd, Donald. "{{% resource_link "d5e5564e-b941-404d-8dd8-6c5b15108fba" "It's Hard to Find a Good Lamp" %}}" Talk Series.
+Judd, Donald. "[It's Hard to Find a Good Lamp](https://juddfoundation.org/wp-content/uploads/2021/11/Its_Hard_To_Find_A_Good_Lamp_1993.pdf)" Talk Series.
 
-Kennedy, Randy. "{{% resource_link "cb2c9f72-2021-45c4-9097-7d3d9b920c9a" "Robert Irwin's Big Visions, Barely Seen" %}}." *New York Times*. January 1, 2016. 
+Kennedy, Randy. "[Robert Irwin's Big Visions, Barely Seen](https://www.nytimes.com/2016/01/03/arts/design/robert-irwins-big-visions-barely-seen.html?_r=1)." *New York Times*. January 1, 2016. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -152,25 +152,25 @@ Kennedy, Randy. "{{% resource_link "cb2c9f72-2021-45c4-9097-7d3d9b920c9a" "Rober
 Marfa
 {{< tdclose >}}{{< tdopen >}}
 
-Tomkins, Caivin. "{{% resource_link "bab969e8-553c-4245-9794-28983c340cfc" "The Benefactor" %}}." *The New Yorker*. June 8, 1998, pp. 52–67.
+Tomkins, Caivin. "[The Benefactor](http://www.newyorker.com/magazine/1998/06/08/the-benefactor)." *The New Yorker*. June 8, 1998, pp. 52–67.
 
-———. "{{% resource_link "b57af1ee-5184-4cf2-b63b-12229c00f551" "The Mission" %}}." *The New Yorker*. May 19, 2003, pp. 46–53.
+———. "[The Mission](http://www.newyorker.com/magazine/2003/05/19/the-mission)." *The New Yorker*. May 19, 2003, pp. 46–53.
 
-Kimmelman, Michael. “{{% resource_link "696c4e02-b324-4efe-964a-a7de30212a98" "The Dia Generation" %}}.” *The New York Times Magazine*. April 6, 2003.
+Kimmelman, Michael. “[The Dia Generation](http://www.nytimes.com/2003/04/06/magazine/the-dia-generation.html).” *The New York Times Magazine*. April 6, 2003.
 
-Colacello, Bob. “{{% resource_link "ede4399e-b891-4095-89e6-4afdc2ead7ea" "Remains of the Dia" %}}.” *Vanity Fair*. September, 1996.
+Colacello, Bob. “[Remains of the Dia](http://www.vanityfair.com/magazine/1996/09/colacello199609).” *Vanity Fair*. September, 1996.
 
-Seman, Michael. {{% resource_link "8f6e1db6-7e04-4931-9520-54dd60d90610" "\"No Country for Old Developers: The Strange Tale of an Arts Boom, Bohemians, and 'Marfalafel' in the High Desert of Marfa, Texas.\" (PDF)" %}} *Applied Research in Economic Development* 5:3 (December, 2008): 25–31.
+Seman, Michael. ["No Country for Old Developers: The Strange Tale of an Arts Boom, Bohemians, and 'Marfalafel' in the High Desert of Marfa, Texas." (PDF)](https://www.researchgate.net/publication/280239326_No_Country_for_Old_Developers_The_Strange_Tale_of_an_Arts_Boom_Bohemians_and_Marfalafel_in_the_High_Desert_of_Marfa_Texas) *Applied Research in Economic Development* 5:3 (December, 2008): 25–31.
 
 *Optional:*
 
-"{{% resource_link "d5768410-16a7-4fb5-89fd-cf6d7270554a" "Chinati Foundation Announces Major New Work by Robert Irwin" %}}." Chinati Foundation.
+"[Chinati Foundation Announces Major New Work by Robert Irwin](https://chinati.org/programs/chinati-foundation-announces-major-new-work-by-robert-irwin)." Chinati Foundation.
 
 Vasquez, Sarah M. "With Controversy Behind Them, Irwin Project Under Way." *Big Bend Now*. October 8, 2015.
 
-Garcia, John Daniel. "{{% resource_link "64e4f81a-9845-475b-8690-fe99997ac444" "Chinati Unveils Major New Work by Robert Irwin, Finally" %}}." *Big Bend Now*. July 21, 2016.
+Garcia, John Daniel. "[Chinati Unveils Major New Work by Robert Irwin, Finally](https://chinati.org/programs/chinati-foundation-announces-major-new-work-by-robert-irwin/)." *Big Bend Now*. July 21, 2016.
 
-{{% resource_link "0aa32a31-e885-48fe-acd6-c7d4d24e0ba9" "\"A One-Day Excursion from Marfa to the South.\"" %}} VisitMarfa.com.
+["A One-Day Excursion from Marfa to the South."](https://visitmarfa.com/visit/page/west-texas-road-trips) VisitMarfa.com.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -178,11 +178,11 @@ Garcia, John Daniel. "{{% resource_link "64e4f81a-9845-475b-8690-fe99997ac444" "
 Drive to Austin
 {{< tdclose >}}{{< tdopen >}}
 
-Potts, Alex. "{{% resource_link "1ef3e3d7-d349-4488-817a-b8e1ef385f15" "Tactility: The Interrogation of Medium in Art of the 1960s." %}}" *Art History* 27: 282–304.
+Potts, Alex. "[Tactility: The Interrogation of Medium in Art of the 1960s.](http://onlinelibrary.wiley.com/doi/10.1111/j.0141-6790.2004.02702004.x/abstract)" *Art History* 27: 282–304.
 
-Chave, Anna. {{% resource_link "0d0c780f-f5dd-4752-89ed-dfb7eb124e97" "“Revaluing Minimalism: Patronage, Aura and Place.” (PDF)" %}} *Art Bulletin* 90:3 (September 2008): 466–486.
+Chave, Anna. [“Revaluing Minimalism: Patronage, Aura and Place.” (PDF)](http://annachave.com/wp-content/uploads/2016/09/Revaluing-Minimalism.pdf) *Art Bulletin* 90:3 (September 2008): 466–486.
 
-Ginsburgh, V. and A.F. Penders. "{{% resource_link "e819ada8-e508-46c5-8d7e-7ec79300fed9" "Land Artists and Art Markets" %}}." In *Journal of Cultural Economics* 21 (1997): 219–228.
+Ginsburgh, V. and A.F. Penders. "[Land Artists and Art Markets](https://link.springer.com/article/10.1023/A:1007468618570)." In *Journal of Cultural Economics* 21 (1997): 219–228.
 
 Deitch, Jeffrey. “The New Economics of Environmental Art.” In *Art in the Land: A Critical Anthology of Environmental Art*. Edited by Alan Sonfist. Plume, 1983, pp. 85–91. ISBN: 9780525477020.
 
@@ -198,6 +198,6 @@ In Houston
 
 \[AA\] "Regard the Light: The Dan Flavin Installation at Richmond Hall."
 
-Kaplan, Barry J. "Houston: The Golden Buckle of the Sunbelt." In *Sunbelt Cities: Politics and Growth Since World War II*. Edited by Richard M. Bernard and Bradley R. Rice. University of Texas Press, 1984, pp. 196–212. ISBN: 9780292775800. \[Preview with {{% resource_link "76af640c-673e-48f2-a9ae-d1e5a2306dcb" "Google Books" %}}\]
+Kaplan, Barry J. "Houston: The Golden Buckle of the Sunbelt." In *Sunbelt Cities: Politics and Growth Since World War II*. Edited by Richard M. Bernard and Bradley R. Rice. University of Texas Press, 1984, pp. 196–212. ISBN: 9780292775800. \[Preview with [Google Books](https://books.google.com/books?id=9EGUCgAAQBAJ&lpg=PP1&pg=PA196#v=onepage&q&f=false)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

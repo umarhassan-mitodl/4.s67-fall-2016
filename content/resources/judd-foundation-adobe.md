@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/596cccef4350569db99d633354b15e66_Judd-foundation-adobe.jpg
 file_size: 59471
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Adobe details at the Judd Foundation.
   credit: ''

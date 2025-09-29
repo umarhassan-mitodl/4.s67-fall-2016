@@ -20,13 +20,13 @@ uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 *   1:45-3:45pm - Spiral Jetty
 *   4:15-7:00pm - Drive to Sun Tunnels by way of Golden Spike (2 hrs and 45min) (GPS coordinates 41.303501°N, 113.863831°W)
 *   7:00pm - Arrive at Sun Tunnels, stay 1hr (sunset 8:30pm)
-    *   {{% resource_link "8e15d484-d48f-4416-baf9-2a2cc56b10a5" "_Sun Tunnels_" %}} self-guide
+    *   [_Sun Tunnels_](https://umfa.utah.edu/land-art/sun-tunnels) self-guide
 *   8:00-8:45pm - 8pm latest Leave Sun Tunnels, Drive to Montello, NV (40 min. drive)
 *   7:45-8:45pm - Time Change (1 hr.+) Dinner at Montello Cowboy Bar, 443 Front Street, Montello, NV 89830
 *   9:00-9:40pm - Time Change Again (1 hr.-), Depart 9pm, Drive to Wendover, Montego Bay (40 min. drive).
 *   ~ 11:00pm - Arrive at Montego Bay, Wendover, NV
 
-Screening: {{% resource_link "0fceaff3-4cf3-4112-8deb-4fad478bfbcb" "Spiral Jetty" %}}
+Screening: [Spiral Jetty](https://holtsmithsonfoundation.org/spiral-jetty-film)
 
 **August 22 (Monday)**
 
@@ -43,7 +43,7 @@ Time Change (-1 hr)*   4:00-4.20pm - Meet Perkins Field, 1110 Airport Rd, Overto
 *   8:15-8:45pm - Drive back to Perkins Field, 1110 Airport Rd, Overton, NV 89040 (Back on bus)
 (Sunset 8:30pm)*   8:45-9 or 9:30 - Drive to Sunset Station Hotel, have dinner on own
 
-Screening: {{% resource_link "ba7aaa6c-77ed-43e1-a50b-96bc7eac04ba" "Troublemakers: The Story of Land Art" %}}
+Screening: [Troublemakers: The Story of Land Art](http://troublemakersthefilm.com/)
 
 **August 23 (Tuesday)**
 
@@ -179,7 +179,7 @@ _Car 2 Schedule:_
 
 {{< resource 6cc58155-bea3-65ac-973e-20e7cd55af37 >}}
 
-Students made a documentary of the field trip, _{{% resource_link "b43c97ba-cb50-49b7-888d-b03f98156ed9" "Travelogue of the Undocumentable" %}}_.
+Students made a documentary of the field trip, _[Travelogue of the Undocumentable](https://youtu.be/aP4PWnEzFPQ)_.
 
 Image Gallery: Land Art and Landscapes from the Optional Course Field Trip
 --------------------------------------------------------------------------
