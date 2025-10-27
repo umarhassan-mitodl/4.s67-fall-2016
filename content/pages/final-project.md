@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section contains details about the midterm and final projects as
   well as due dates. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Projects
@@ -15,7 +13,7 @@ uid: 85296620-ef15-ea8f-1917-f34de1a7423f
 
 {{< resource uuid="f4391ef8-dfdc-9858-57a3-6e6f9228defc" href="https://youtu.be/aP4PWnEzFPQ" >}}
 
-Students who participated in the field trip created a [collective video, _Travelogue of the Undocumentable_](https://youtu.be/aP4PWnEzFPQ), which documented their trip to Utah, Arizona, New Mexico and Texas. An accompanying [blog post](http://arts.mit.edu/notes-field-outside-looking/) is available at the Arts at MIT website.
+Students who participated in the field trip created a {{% resource_link "06beac69-c34b-469a-a751-9fa526a1e9bb" "collective video, _Travelogue of the Undocumentable_" %}}, which documented their trip to Utah, Arizona, New Mexico and Texas. An accompanying {{% resource_link "6da0c1b9-4df1-4a4e-871e-814edd0d183c" "blog post" %}} is available at the Arts at MIT website.
 
 Final Project Assignments
 -------------------------
